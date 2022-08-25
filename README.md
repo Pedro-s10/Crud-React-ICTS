@@ -7,7 +7,7 @@
 >![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 >![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ###
-## Para uma melhor experiência, siga corretamente as informações abaixo 😄👇 !
+## Para uma melhor experiência, siga corretamente as informações abaixo 👇 !
 
 ## Instalação 
 >Para a instalação ocorrer como desejado
