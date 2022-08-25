@@ -1,0 +1,120 @@
+.register--titleprod {
+    text-align: center;
+    margin: 10px;
+    font-family: Poppins, sans-serif !important;
+}
+
+.app--container {
+    display: flex;
+    padding: 5px;
+
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    width: 70vw;
+
+}
+
+.register--container {
+    border: 3px solid #f3f3f3;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.register--title {
+    text-align: center;
+    margin-bottom: 5px;
+    font-family: Poppins, sans-serif;
+}
+
+
+.register--input {
+    border-color: #f3f3f3;
+    display: block;
+    padding: 7px;
+    margin: 10px auto;
+    border-radius: 3px;
+}
+
+.register--button {
+    text-align: center;
+    background-color: #98FB98;
+    padding: 5px;
+    width: 100px;
+    border-radius: 9px;
+    border: #f3f3f3;
+
+}
+
+.button--pedidos {
+    text-align: center;
+    background-color: #98FB98;
+    padding: 5px;
+    width: 150px;
+    border-radius: 9px;
+    border: #f3f3f3;
+
+}
+
+.register--button:hover {
+    background-color: #4ee44e;
+
+}
+
+.button--pedidos:hover {
+    background-color: #4ee44e;
+
+}
+
+.div--produtos {
+    width: 60%;
+}
+
+.div--pedidos {
+    width: 40%;
+}
+
+.card--container2 {
+    height: 50px;
+    border: 3px solid #f3f3f3;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 25px;
+}
+
+.div--nota {
+    width: 90%;
+    height: 646px;
+    border: 3px solid #f3f3f3;
+    border-radius: 5px;
+    margin: 6px;
+    padding: 25px;
+    cursor: pointer;
+    margin-top: 300px;
+    overflow: auto;
+}
+
+.title--nota {
+    text-align: center;
+}
+
+.icon--delete {
+    align-self: flex-start;
+}
+
+.valorfinal {
+    height: 60px;
+    border: 3px solid #f3f3f3;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 10px;
+    position: static;
+    text-align: center;
+
+}
+
+

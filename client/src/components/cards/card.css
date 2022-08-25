@@ -1,0 +1,51 @@
+.card--container {
+    width: 300px;
+    height: 170px;
+    border: 3px solid #f3f3f3;
+    border-radius: 5px;
+    margin: 6px;
+    padding: 25px;
+    cursor: pointer;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.button--card {
+    text-align: center;
+    background-color: #98FB98;
+    padding: 5px;
+    width: 300px;
+    border-radius: 10px;
+    border: #f3f3f3;
+}
+
+.button--editar:hover {
+    background-color: #f5f5f5;
+}
+
+.button--card:hover {
+    background-color: #4ee44e;
+}
+
+.card--title {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+.card--preco {
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.card--dsc {
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.icon--edit {
+    float: inline-end;
+}
