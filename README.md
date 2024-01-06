@@ -54,6 +54,3 @@ Pronto, agora o projeto está pronto para ser avaliado ✨🎉🚀!!
 ###
 
 
-<div align="center">
-Feito com ❤️ por Pedro Paulo Silva de Oliveira
-</div>
